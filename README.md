@@ -1,9 +1,11 @@
 ## Olá, meu nome é carlos, trabalhei como SysAdmin, SRE e observabilidade 👋
 
+### Um pouco sobre mim.
 
-- 🔭 Atualmente trabalhando como Engenheiro de Observabilidade com foco em Datadog
-- 🌱 Estudando AWS, PYTHON e IAC
-- 📫 E-mail Para contato: carlos-edualves@outlook.com
+- 🔭 Atualmente trabalhando como Engenheiro de Observabilidade com foco em Datadog, mas sempre aberto a novos conhecimentos...
+- 💻 Gosto de Souls Like, sci-fi e animes!
+- 🌱 Estudando AWS, PYTHON, K8S e IAC.
+- 📫 E-mail Para contato: carlos-edualves@outlook.com.
 
 
 <div style="display: inline_block"><br>
